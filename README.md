@@ -1,5 +1,6 @@
 # Unit testing in python best practices
-| Note : این ترجمه ی  [مقاله ای](https://imsadra.me/unit-testing-in-python-and-best-practices) هست که [صدرا](https://imsadra.me) نوشته
+| Note :این ترجمه ی  [مقاله ای](https://imsadra.me/unit-testing-in-python-and-best-practices) هست که [صدرا](https://imsadra.me) نوشته
+
 در این مقاله من به شما کمک میکنم تا مفاهیم اولیه Unit Testing در پایتون را فرا بگیرید، و بعد درمورد بست پرکتیس ها صحبت میکنیم که تست هایتان را بسیار قابل فهم تر میکنند.
 اگر به دنبال جایی برای شروع تست نوشتن برای پروژه های پایتونتان میگردید، اینجا بهترین جاست. بیایید کمی جادو ببینیم.
 
